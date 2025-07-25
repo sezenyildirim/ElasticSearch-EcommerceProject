@@ -13,6 +13,3 @@
 I finished a full-stack e-commerce web project using .NET 8 and React. I built a fast, syntax-error-tolerant search feature using Elasticsearch.
 
 
-
-https://github.com/user-attachments/assets/6696b473-7074-4d72-80ec-35cbc64d36f3
-
