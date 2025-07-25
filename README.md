@@ -5,7 +5,9 @@
 
 📌 Tech stack  
 🔸 .Net 8 
+🔸 React + Vite + Tailwind
 🔸 Elasticsearch (Elastic.Clients.Elasticsearch 8.13.15)
+🔸 Docker
 
 --------------------------------------------------------------------------------------------------------------------
 :iphone: EN :iphone:
