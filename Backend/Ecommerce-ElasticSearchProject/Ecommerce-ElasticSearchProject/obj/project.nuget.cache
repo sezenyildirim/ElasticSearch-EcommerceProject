@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "beFiR+bhUy6sXdXD9+kTcnSjRVnQ4VqErrr7/1zEiNLWWmqvDipcrk94zmZs+5BYUODZf2FB72LNK3htmD/nFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\beste\\OneDrive\\Masaüstü\\ecommerce\\Backend\\Ecommerce-ElasticSearchProject\\Ecommerce-ElasticSearchProject\\Ecommerce-ElasticSearchProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beste\\.nuget\\packages\\elastic.clients.elasticsearch\\8.13.15\\elastic.clients.elasticsearch.8.13.15.nupkg.sha512",
+    "C:\\Users\\beste\\.nuget\\packages\\elastic.transport\\0.4.19\\elastic.transport.0.4.19.nupkg.sha512",
+    "C:\\Users\\beste\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\beste\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\beste\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\beste\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\beste\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\beste\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,969 @@
+{
+  "took": 7,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 41,
+      "relation": "eq"
+    },
+    "max_score": 1,
+    "hits": [
+      {
+        "_index": "phones",
+        "_id": "StiWTpcB54-iPZ0ZofSd",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Pro Max",
+          "brand": "Apple",
+          "model": "iPhone 16 Pro Max",
+          "description": "",
+          "sort": 1,
+          "color": "beyaz titanyum",
+          "storage": "256",
+          "width": "6.9",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "99.999",
+          "image": "https://i.ibb.co/ymK7hgzB/iphone16promax.webp",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "_aDiT5cBE2c2flBxbVHH",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 15 Plus",
+          "brand": "Apple",
+          "model": "iPhone 15 Plus",
+          "description": "",
+          "sort": 28,
+          "color": "mavi",
+          "storage": "128",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "64.000",
+          "image": "https://i.ibb.co/yFB4p2jX/iphone15plus.webp",
+          "rating": 4
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "_qDiT5cBE2c2flBxkFGR",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 15 Plus",
+          "brand": "Apple",
+          "model": "iPhone 15 Plus",
+          "description": "",
+          "sort": 29,
+          "color": "sarı",
+          "storage": "128",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "64.000",
+          "rating": 4
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "_6DiT5cBE2c2flBxllGy",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 15 Plus",
+          "brand": "Apple",
+          "model": "iPhone 15 Plus",
+          "description": "",
+          "sort": 29,
+          "color": "sarı",
+          "storage": "128",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "64.000",
+          "rating": 4
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "AKDiT5cBE2c2flBxtlIn",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 15 Plus",
+          "brand": "Apple",
+          "model": "iPhone 15 Plus",
+          "description": "",
+          "sort": 30,
+          "color": "yeşil",
+          "storage": "128",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "64.000",
+          "rating": 4
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "AaDiT5cBE2c2flBx2FKG",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 15 Plus",
+          "brand": "Apple",
+          "model": "iPhone 15 Plus",
+          "description": "",
+          "sort": 31,
+          "color": "siyah",
+          "storage": "128",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "64.000",
+          "rating": 4
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "FCAbUJcBwy91rqxs257N",
+        "_score": 1,
+        "_source": {
+          "name": "Samsung Galaxy S25 Plus",
+          "brand": "Samsung",
+          "model": "Samsung Galaxy S25 Plus",
+          "description": "",
+          "sort": 35,
+          "color": "buz mavisi",
+          "storage": "256",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "Android 15"
+          },
+          "price": "53.499",
+          "image": "https://i.ibb.co/fz1X1gXJ/galaxys25plus.webp",
+          "rating": 5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "ESAYUJcBwy91rqxsZJ5J",
+        "_score": 1,
+        "_source": {
+          "name": "Samsung Galaxy S25",
+          "brand": "Samsung",
+          "model": "Samsung Galaxy S25",
+          "description": "",
+          "sort": 34,
+          "color": "lacivert",
+          "storage": "256",
+          "width": "6.2",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "Android 15"
+          },
+          "price": "49.949",
+          "rating": 5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "EiAYUJcBwy91rqxsp572",
+        "_score": 1,
+        "_source": {
+          "name": "Samsung Galaxy S25",
+          "brand": "Samsung",
+          "model": "Samsung Galaxy S25",
+          "description": "",
+          "sort": 35,
+          "color": "mint yeşili",
+          "storage": "256",
+          "width": "6.2",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "Android 15"
+          },
+          "price": "49.949",
+          "rating": 5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "FSAcUJcBwy91rqxsDZ5A",
+        "_score": 1,
+        "_source": {
+          "name": "Samsung Galaxy S25 Plus",
+          "brand": "Samsung",
+          "model": "Samsung Galaxy S25 Plus",
+          "description": "",
+          "sort": 36,
+          "color": "gümüş",
+          "storage": "256",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "Android 15"
+          },
+          "price": "53.499",
+          "rating": 5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "FiAcUJcBwy91rqxsLJ6u",
+        "_score": 1,
+        "_source": {
+          "name": "Samsung Galaxy S25 Plus",
+          "brand": "Samsung",
+          "model": "Samsung Galaxy S25 Plus",
+          "description": "",
+          "sort": 37,
+          "color": "lacivert",
+          "storage": "256",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "Android 15"
+          },
+          "price": "53.499",
+          "rating": 5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "FyAcUJcBwy91rqxsT577",
+        "_score": 1,
+        "_source": {
+          "name": "Samsung Galaxy S25 Plus",
+          "brand": "Samsung",
+          "model": "Samsung Galaxy S25 Plus",
+          "description": "",
+          "sort": 38,
+          "color": "mint yeşili",
+          "storage": "256",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "Android 15"
+          },
+          "price": "53.499",
+          "rating": 5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "ECAYUJcBwy91rqxsO54L",
+        "_score": 1,
+        "_source": {
+          "name": "Samsung Galaxy S25",
+          "brand": "Samsung",
+          "model": "Samsung Galaxy S25",
+          "description": "",
+          "sort": 33,
+          "color": "gümüş",
+          "storage": "256",
+          "width": "6.2",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "Android 15"
+          },
+          "price": "49.949",
+          "image": "https://i.ibb.co/KjGj9d62/galaxys25.webp",
+          "rating": 5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "6KDZT5cBE2c2flBx1VHm",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "description": "",
+          "sort": 9,
+          "color": "beyaz",
+          "storage": "128",
+          "width": "6.1",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "62.449",
+          "image": "https://i.ibb.co/WQ3Qqfv/iphone16.webp",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "86DeT5cBE2c2flBxgVEr",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Plus",
+          "brand": "Apple",
+          "model": "iPhone 16 Plus",
+          "description": "",
+          "sort": 18,
+          "color": "beyaz",
+          "storage": "128",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "72.000",
+          "image": "https://i.ibb.co/84rTMZw4/iphone16plus.webp",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "6aDaT5cBE2c2flBxGFEp",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "description": "",
+          "sort": 10,
+          "color": "deniz mavisi",
+          "storage": "128",
+          "width": "6.1",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "62.449",
+          "image": "https://ibb.co/mmBm145",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "66DbT5cBE2c2flBx0lFC",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "description": "",
+          "sort": 11,
+          "color": "laciverttaş",
+          "storage": "128",
+          "width": "6.1",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "62.449",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "6qDaT5cBE2c2flBxR1GQ",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "description": "",
+          "sort": 10,
+          "color": "laciverttaş",
+          "storage": "128",
+          "width": "6.1",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "62.449",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "7aDcT5cBE2c2flBxFFFX",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "description": "",
+          "sort": 13,
+          "color": "siyah",
+          "storage": "128",
+          "width": "6.1",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "62.449",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "7qDcT5cBE2c2flBxZ1EO",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "description": "",
+          "sort": 14,
+          "color": "beyaz",
+          "storage": "256",
+          "width": "6.1",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "62.449",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "76DcT5cBE2c2flBxlVFT",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "description": "",
+          "sort": 14,
+          "color": "deniz mavisi",
+          "storage": "256",
+          "width": "6.1",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "62.449",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "8KDcT5cBE2c2flBxxlF9",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "description": "",
+          "sort": 15,
+          "color": "laciverttaş",
+          "storage": "256",
+          "width": "6.1",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "62.449",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "8aDcT5cBE2c2flBx4lFs",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "description": "",
+          "sort": 16,
+          "color": "pembe",
+          "storage": "256",
+          "width": "6.1",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "62.449",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "8qDcT5cBE2c2flBx_1HW",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "description": "",
+          "sort": 17,
+          "color": "siyah",
+          "storage": "256",
+          "width": "6.1",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "62.449",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "9KDeT5cBE2c2flBxo1HN",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Plus",
+          "brand": "Apple",
+          "model": "iPhone 16 Plus",
+          "description": "",
+          "sort": 19,
+          "color": "deniz mavisi",
+          "storage": "128",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "72.000",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "9aDeT5cBE2c2flBx0FGp",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Plus",
+          "brand": "Apple",
+          "model": "iPhone 16 Plus",
+          "description": "",
+          "sort": 20,
+          "color": "laciverttaş",
+          "storage": "128",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "72.000",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "9qDeT5cBE2c2flBx8VGa",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Plus",
+          "brand": "Apple",
+          "model": "iPhone 16 Plus",
+          "description": "",
+          "sort": 21,
+          "color": "pembe",
+          "storage": "128",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "72.000",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "96DfT5cBE2c2flBxClH_",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Plus",
+          "brand": "Apple",
+          "model": "iPhone 16 Plus",
+          "description": "",
+          "sort": 22,
+          "color": "siyah",
+          "storage": "128",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "72.000",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "-KDfT5cBE2c2flBxR1Eo",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Plus",
+          "brand": "Apple",
+          "model": "iPhone 16 Plus",
+          "description": "",
+          "sort": 23,
+          "color": "beyaz",
+          "storage": "256",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "72.000",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "-aDfT5cBE2c2flBxc1Gh",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Plus",
+          "brand": "Apple",
+          "model": "iPhone 16 Plus",
+          "description": "",
+          "sort": 24,
+          "color": "deniz mavisi",
+          "storage": "256",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "72.000",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "-qDfT5cBE2c2flBxklFu",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Plus",
+          "brand": "Apple",
+          "model": "iPhone 16 Plus",
+          "description": "",
+          "sort": 25,
+          "color": "laciverttaş",
+          "storage": "256",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "72.000",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "-6DfT5cBE2c2flBxsVGc",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Plus",
+          "brand": "Apple",
+          "model": "iPhone 16 Plus",
+          "description": "",
+          "sort": 26,
+          "color": "pembe",
+          "storage": "256",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "72.000",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "_KDfT5cBE2c2flBxzlFD",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Plus",
+          "brand": "Apple",
+          "model": "iPhone 16 Plus",
+          "description": "",
+          "sort": 27,
+          "color": "siyah",
+          "storage": "256",
+          "width": "6.7",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "72.000",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "S9iWTpcB54-iPZ0Z_vTp",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Pro Max",
+          "brand": "Apple",
+          "model": "iPhone 16 Pro Max",
+          "description": "",
+          "sort": 2,
+          "color": "çöl titanyum",
+          "storage": "256",
+          "width": "6.9",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "99.999",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "TNiXTpcB54-iPZ0ZIPRy",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Pro Max",
+          "brand": "Apple",
+          "model": "iPhone 16 Pro Max",
+          "description": "",
+          "sort": 3,
+          "color": "natural titanyum",
+          "storage": "256",
+          "width": "6.9",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "99.999",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "TdiXTpcB54-iPZ0ZNPTT",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Pro Max",
+          "brand": "Apple",
+          "model": "iPhone 16 Pro Max",
+          "description": "",
+          "sort": 4,
+          "color": "siyah titanyum",
+          "storage": "256",
+          "width": "6.9",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "99.999",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "UNiXTpcB54-iPZ0Zr_Qr",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Pro Max",
+          "brand": "Apple",
+          "model": "iPhone 16 Pro Max",
+          "description": "",
+          "sort": 6,
+          "color": "çöl titanyum",
+          "storage": "512",
+          "width": "6.9",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "108.699",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "T9iXTpcB54-iPZ0ZkvSV",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Pro Max",
+          "brand": "Apple",
+          "model": "iPhone 16 Pro Max",
+          "description": "",
+          "sort": 7,
+          "color": "natural titanyum",
+          "storage": "512",
+          "width": "6.9",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "108.699",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "TtiXTpcB54-iPZ0ZT_SG",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Pro Max",
+          "brand": "Apple",
+          "model": "iPhone 16 Pro Max",
+          "description": "",
+          "sort": 8,
+          "color": "siyah titanyum",
+          "storage": "512",
+          "width": "6.9",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "108.699",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "UdiXTpcB54-iPZ0Z0fQo",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16 Pro Max",
+          "brand": "Apple",
+          "model": "iPhone 16 Pro Max",
+          "description": "",
+          "sort": 5,
+          "color": "beyaz titanyum",
+          "storage": "512",
+          "width": "6.9",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "108.699",
+          "rating": 4.5
+        }
+      },
+      {
+        "_index": "phones",
+        "_id": "7KDbT5cBE2c2flBx8lHR",
+        "_score": 1,
+        "_source": {
+          "name": "iPhone 16",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "description": "",
+          "sort": 12,
+          "color": "pembe",
+          "storage": "128",
+          "width": "6.1",
+          "features": {
+            "s_pen": false,
+            "face_id": true,
+            "wireless_charging": true,
+            "os": "iOS 18"
+          },
+          "price": "62.449",
+          "rating": 4.5
+        }
+      }
+    ]
+  }
+}

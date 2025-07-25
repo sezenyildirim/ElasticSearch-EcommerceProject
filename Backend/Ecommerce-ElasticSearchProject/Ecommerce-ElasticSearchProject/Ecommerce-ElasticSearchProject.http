@@ -1,0 +1,6 @@
+@Ecommerce_ElasticSearchProject_HostAddress = http://localhost:5122
+
+GET {{Ecommerce_ElasticSearchProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
