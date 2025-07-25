@@ -12,3 +12,4 @@
 
 I finished a full-stack e-commerce web project using .NET 8 and React. I built a fast, syntax-error-tolerant search feature using Elasticsearch.
 
+https://github.com/user-attachments/assets/305513fa-4d65-4792-85b8-15e3eb861e36
